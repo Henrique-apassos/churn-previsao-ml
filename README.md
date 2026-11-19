@@ -27,7 +27,7 @@ Do ponto de vista técnico é uma classificação binária: `churn = 1` se o cli
 | # | Miniprojeto | Status |
 |---|-------------|--------|
 | 1 | Análise, tratamento e construção da base de dados de churn | Concluído |
-| 2 | Algoritmos supervisionados (Árvores de Decisão, Gradient Boosting, MLP) | A fazer |
+| 2 | Algoritmos supervisionados (Árvores de Decisão, Gradient Boosting, MLP) | Concluído|
 | 3 | Algoritmos não supervisionados (K-means, K-prototypes, DBSCAN) | A fazer |
 
 ## Miniprojeto 1
